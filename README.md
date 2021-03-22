@@ -3,7 +3,7 @@ lab2, Hryshkin
 
 ## Task
 
-Create a (web) app displaying image information.
+Create a (web) app displaying image information. I am use Python Imaging Library.
 
 ## Result
 
